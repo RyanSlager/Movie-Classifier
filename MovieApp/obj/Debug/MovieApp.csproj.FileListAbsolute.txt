@@ -1,0 +1,6 @@
+C:\Users\slage\Desktop\C# Bootcamp\MovieApp\MovieApp\obj\Debug\MovieApp.csprojResolveAssemblyReference.cache
+C:\Users\slage\Desktop\C# Bootcamp\MovieApp\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\slage\Desktop\C# Bootcamp\MovieApp\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\slage\Desktop\C# Bootcamp\MovieApp\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\slage\Desktop\C# Bootcamp\MovieApp\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\slage\Desktop\C# Bootcamp\MovieApp\MovieApp\obj\Debug\MovieApp.pdb
